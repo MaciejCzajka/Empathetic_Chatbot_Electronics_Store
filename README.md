@@ -7,8 +7,9 @@ This is an empathetic chatbot for an electronics store using polish GPT-2. You c
 </p>
 
 # Steps to run the app:<br/>
-1. Run the ***chatbot.py***<br/>
-2. Create your own avatar<br/>
-3. When you finish click ***escape*** on your keyboard to close the app<br/>
-4. Run the ***chatbot.py*** and write the text in console in ***polish*** language about the issues in a typical electronics store. The avatar will react to emotions and show them to you<br/>
-5. Now you can talk with your chatbot as long as you want<br/>
+1. Install packages from ***requirements.txt***
+2. Run the ***chatbot.py***<br/>
+3. Create your own avatar<br/>
+4. When you finish click ***escape*** on your keyboard to close the app<br/>
+5. Run the ***chatbot.py*** and write the text in console in ***polish*** language about the issues in a typical electronics store. The avatar will react to emotions and show them to you<br/>
+6. Now you can talk with your chatbot as long as you want<br/>
