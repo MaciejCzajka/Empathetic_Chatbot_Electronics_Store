@@ -1,6 +1,6 @@
 # Empathetic Chatbot for Electronics Store (Polish GPT-2)
 <p align="justify">
-This is an empathetic chatbot for electronics store using polish GPT-2. You can talk with it about products offering by the typical electronics store like new computers, mobile phones, guarantee and so on. Additionally it show its emotion by special avatar: 
+This is an empathetic chatbot for an electronics store using polish GPT-2. You can talk with it about products offered by a typical electronics store, such as new computers, cell phones, warranties and so on. Additionally it shows its emotions by a special avatar: 
 </p>
 <p align="center">
 <img src="https://github.com/MaciejCzajka/Empathetic_Chatbot_Electronics_Store/blob/main/AVATAR.png" width="300" height="300" border="10"/>
@@ -10,5 +10,5 @@ This is an empathetic chatbot for electronics store using polish GPT-2. You can 
 1. Run the ***chatbot.py***<br/>
 2. Create your own avatar<br/>
 3. When you finish click ***escape*** on your keyboard to close the app<br/>
-4. Run the ***chatbot.py*** and write the text in console in ***polish*** language about the matters in typical electronics store. The avatar will react to emotions and show them to you<br/>
+4. Run the ***chatbot.py*** and write the text in console in ***polish*** language about the issues in a typical electronics store. The avatar will react to emotions and show them to you<br/>
 5. Now you can talk with your chatbot as long as you want<br/>
